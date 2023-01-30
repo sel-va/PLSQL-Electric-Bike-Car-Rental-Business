@@ -36,6 +36,6 @@ git clone https://github.com/sel-va/PLSQL-electric-bike-car-rental-business-mana
 ## **License**
 This project is not licensed under the MIT License.
 
-Please note that this project is just an example and it's possible to have additional functionalities and improvements, we welcome any contributions, suggestions or improvements, please feel free to submit a pull request.
+Please note that this project is just an example and it is possible to have additional functionalities and improvements, such as front-end development. We welcome any contributions, suggestions, or improvements. Please feel free to submit a pull request.
 
 Thank you for choosing our PLSQL Electric Bike Car Rental Business Management System !
