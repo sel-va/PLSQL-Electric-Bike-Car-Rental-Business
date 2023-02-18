@@ -1,4 +1,5 @@
 # PLSQL-Electric-Bike-Car-Rental-Business-Management-System
+## Production Support Training Project For Freshers
     AUTHOR: SELVA
     DATE CREATED: 05/01/2022 to 30-01-2022
     
@@ -32,6 +33,14 @@ git clone https://github.com/sel-va/PLSQL-electric-bike-car-rental-business-mana
 
 ## **Authors**
 - **SELVA** - *Initial work* - [selva](https://github.com/sel-va)
+
+## **TASK**
+
+1. Identify the procedures where DBMS_OUTPUT is used for printing output.
+2. Modify the procedure by adding OUT parameters for the output instead of using DBMS_OUTPUT.
+3. In the calling program, capture the output parameters instead of retrieving them from DBMS_OUTPUT.
+4. Test the modified code to ensure that it works as expected.
+During this process, you may also identify areas of the code that can be enhanced to improve performance or readability. You can make suggestions to improve these areas, such as optimizing SQL queries, or reorganizing code for better structure and readability.
 
 ## **License**
 This project is not licensed under the MIT License.
